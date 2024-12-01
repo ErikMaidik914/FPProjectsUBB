@@ -1,0 +1,10 @@
+824;29;horse:
+824;29;horse:84;11;house:
+824;29;horse:84;11;house:380;20;apples:
+824;29;horse:84;11;house:380;20;apples:73;10;building:
+824;29;horse:84;11;house:380;20;apples:73;10;building:32;3;building:
+824;29;horse:84;11;house:380;20;apples:73;10;building:32;3;building:608;18;car:
+824;26;pen:84;11;house:380;20;apples:73;10;building:32;3;building:608;18;car:
+824;26;pen:84;11;house:380;20;apples:73;10;building:32;3;building:608;18;car:872;21;nacho:
+824;26;pen:84;11;house:380;20;apples:73;10;building:32;3;building:608;18;car:872;21;nacho:356;15;pen:
+824;26;pen:84;11;house:380;20;apples:73;10;building:32;3;building:608;18;car:872;21;nacho:356;15;pen:9;11;calin:
